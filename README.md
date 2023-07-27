@@ -10,7 +10,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Comptia A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Comptia A+](https://www.credly.com/badges/03dd1fc9-bb21-48ce-b282-93000ba8eedd/public_url)
 
 
 
