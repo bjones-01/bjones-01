@@ -3,7 +3,7 @@
 <h2>👨‍💻 General IT & Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/bjones-01/ActiveDirectoryLab)
   - [Microsoft Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
