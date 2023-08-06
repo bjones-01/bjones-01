@@ -8,7 +8,7 @@
 
 <h2>📝 Notes:</h2>
 
-  - [Microsoft Azure: From Zero to Hero](https://github/bjones-01/AzureZerotoHero )
+  - [Microsoft Azure: From Zero to Hero](https://github/bjones-01/AzureZerotoHero)
   
 
 <h2>📄 Certifications</h2>
